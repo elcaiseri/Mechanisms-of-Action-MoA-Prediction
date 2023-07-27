@@ -10,7 +10,7 @@
 | --- | --- | --- | --- | --- |
 | [moa-keras-multilabel-classifier-nn-starter.ipynb](https://www.kaggle.com/code/elcaiseri/moa-keras-multilabel-classifier-nn-starter?scriptVersionId=42357742) | Keras | 0.01648 | 0.01889 | --- |
 | [moa-keras-newbaseline-initializers-featureseng.ipynb](https://www.kaggle.com/code/elcaiseri/moa-keras-newbaseline-initializers-featureseng?scriptVersionId=45634468) | Keras | 0.01696 | 0.01924 | --- |
-| [3-model-training-and-inference-pytorch2.ipynb](https://www.kaggle.com/code/elcaiseri/3-model-training-and-inference-pytorch2?scriptVersionId=41463184) | PyTorch | 0.01612 | 0.01824 | Silver |
+| [3-model-training-and-inference-pytorch2.ipynb](https://www.kaggle.com/code/elcaiseri/3-model-training-and-inference-pytorch2?scriptVersionId=48141110) | PyTorch | 0.01612 | 0.01824 | Silver |
 
 ---
 
